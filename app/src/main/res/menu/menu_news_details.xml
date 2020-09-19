@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.sabanciuniv.cs310.ulaseraslanhw3.NewsDetails">
+
+<item android:title="Comments"
+    android:icon="@drawable/ic_mode_comment_24px"
+    app:showAsAction="ifRoom"
+    android:id="@+id/commentbutton" >
+
+</item>
+
+
+</menu>
