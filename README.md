@@ -1,1 +1,1 @@
-# mobile_app_dev
+# Mobile Programming - News App Development
